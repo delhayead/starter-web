@@ -1,3 +1,12 @@
+=======================================================================================
+=======================  My TEXT FILE NUMBER 1 ========================================
+=======================================================================================
+Author : Delhaye Adrien
+Creation Date : 28 october 2020
+Last Update : 28 OCtober 2020 | 12:15
+=======================================================================================
+
+
 Well this is just some text .
 Nothing to be afraid of just chill and have a good time.
 Oh we eat pizza this lunch !
@@ -5,3 +14,5 @@ Oh we eat pizza this lunch !
 Well I'm adding some more text here.
 Let's talk about Dark Matter for example.
 Did you know Dark matter is more than 70% of the total matter in the universe ?
+
+=======================================================================================
