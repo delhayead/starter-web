@@ -13,3 +13,6 @@ Merci à Jason pour son apprentissage
 
 ## Deployement
 On mettra ça sur wsindows et android.
+
+### Copyright
+Copyright Delhaye Adrien
