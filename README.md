@@ -7,7 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to contribute 
-Vous pouvez aisement contribuer à ce document.
+Fork this repository and then ask issue request for review.
 ## Honorable mention
 Merci à Jason pour son apprentissage
 
