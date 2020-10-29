@@ -12,3 +12,4 @@ Vous pouvez aisement contribuer à ce document.
 Merci à Jason pour son apprentissage
 
 ## Deployement
+On mettra ça sur wsindows et android.
