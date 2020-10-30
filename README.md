@@ -16,3 +16,4 @@ On mettra ça sur wsindows et android.
 
 ### Copyright
 Copyright Delhaye Adrien
+All right reserved.
