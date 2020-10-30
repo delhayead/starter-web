@@ -13,7 +13,7 @@ Merci à Jason pour son apprentissage
 
 ## Deployement
 On mettra ça sur wsindows et android.
-
+Mais pas Apple c'est des connard !!
 ### Copyright
 Copyright Delhaye Adrien
 All right reserved.
